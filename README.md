@@ -14,7 +14,7 @@ Click into each folder to explore datasets, dashboards, and full documentation.
 
 | Category | Description |
 |----------|-------------|
-| [Google Analytics Platform Dashboard](Dashboard-File/Google Platform) | A Power BI dashboard simulating user behavior and engagement across Google platforms using mock data. |
+| [Google Analytics Platform Dashboard](Dashboard-File/Google%20Platform) | A Power BI dashboard simulating user behavior and engagement across Google platforms using mock data. |
 | *(More coming soon)* | You can contribute or fork this repo for your own learning collections. |
 
 ---
