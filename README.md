@@ -13,7 +13,6 @@ Each folder below contains a self-contained project, complete with datasets, das
 ### 📁 [Dashboard-File](./Dashboard-File)
 A collection of data visualization dashboards.
 
- - [Google Platform Dashboard](./Dashboard-File/Google%20Platform):Overview and Dynamics dashboards simulating key Google services.
-  Overview and Dynamics dashboards simulating key Google services.
+ - 📊[Google Platform Dashboard](./Dashboard-File/Google%20Platform): Overview and Dynamics dashboards simulating key Google services.
 
 ---
