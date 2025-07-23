@@ -1,45 +1,52 @@
-# 📊 Data Analyst Projects Repository
+---
+# 🧠 Data Analyst Projects
+A curated collection of **Power BI** projects designed for showcasing data analytics, storytelling, and dashboard building skills.
 
-Welcome to the **Data Analyst Projects** repository!  
-This space collects hands-on projects focused on data analysis, dashboard design, and business intelligence using tools such as **Power BI**, **Python**, and more.
-
-> ⚠️ **For educational purposes only**: All datasets used here are mock or simulated data created for learning and skill-building. No copyrighted or proprietary data is included.
+> 📊 Ideal for learning, portfolio building, and contributing to the global analytics community.
 
 ---
 
-## 🗂️ Project Categories
-
-All projects are organized in folders under `/Applications/` by topic.  
-Click into each folder to explore datasets, dashboards, and full documentation.
-
+## 📁 Folder Structure
 | Category | Description |
 |----------|-------------|
 | [Google Analytics Platform Dashboard](Dashboard-File/Google%20Platform) | A Power BI dashboard simulating user behavior and engagement across Google platforms using mock data. |
-| *(More coming soon)* | You can contribute or fork this repo for your own learning collections. |
+| *(_More coming soon_)!* | You can contribute or fork this repo for your own learning collections. |
 
 ---
 
-## 🔧 Tools & Skills Demonstrated
+## 🚀 Featured Project: Google Platform Dashboard
 
-- Data Modeling (Star Schema)
-- Power BI Visualizations
-- Mock Data Design (CSV)
-- Python (Coming Soon)
-- Data Storytelling
+![Overview](Dashboard-File/Google%20Platform/overview.png)
+
+### 📌 Description
+An interactive Power BI dashboard that simulates analytics across Google services like Search, Ads, Maps, Cloud, and Android. It includes KPIs such as:
+
+- Total users, paid users, satisfaction scores
+- Engagement and growth trends
+- Revenue breakdowns
+
+### 📂 Files included
+- `Google_Analytics_Platform_Dashboard.pbix` – Power BI report file
+- `FactUsage.csv`, `DimPlatform.csv`, `DimRegion.csv` – Sample dataset in star schema format
+- `overview.png`, `dynamics.png` – Dashboard visual exports
 
 ---
 
-## 📄 License
+## 🤝 Contributing
+Want to contribute your own dataset or dashboard?
 
-This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
-
----
-
-## 🙋‍♀️ Contributing
-
-Want to contribute your own dataset or dashboard?  
 Please see the [CONTRIBUTING.md](CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) files before submitting.
 
 ---
 
-If you found this repository useful for your learning journey, consider ⭐ starring it!
+## 📄 License
+This project is open-source and available under the [MIT License](LICENSE). You can use, modify, and share freely with attribution.
+
+Copyright (c) 2025 **Thanarat Chuehpasuk**
+
+---
+
+## ⭐ Support & Credits
+If you find this repository helpful, please consider giving it a ⭐ or sharing it with fellow analysts!
+
+---
