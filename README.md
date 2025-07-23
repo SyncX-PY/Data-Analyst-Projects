@@ -1,46 +1,67 @@
----
-# 🧠 Data Analyst Projects
-A curated collection of **Power BI** projects designed for showcasing data analytics, storytelling, and dashboard building skills.
+# 🌐 Google Analytics Dashboard Project
 
-> 📊 Ideal for learning, portfolio building, and contributing to the global analytics community.
+This repository is part of a personal learning initiative to explore data visualization using Power BI. All content in this project, including mock data and dashboards, has been created **solely for educational and skill development purposes**.
+
+> ⚠️ **Disclaimer:** This project is not affiliated with, endorsed by, or using any proprietary data or visuals from Google. It is built using publicly available tools and mock data to simulate real-world analytics scenarios. 
 
 ---
 
 ## 📁 Folder Structure
-| Category | Description |
-|----------|-------------|
-| [Google Analytics Platform Dashboard](Dashboard-File/Google%20Platform) | A Power BI dashboard simulating user behavior and engagement across Google platforms using mock data. |
-| *(_More coming soon_)!* | You can contribute or fork this repo for your own learning collections. |
+
+```
+Applications/
+└── Dashboard-Files/
+    └── Google Platform/
+        ├── Overview.png
+        ├── Dynamics.png
+        ├── Google_Analytics_PBI.pbix
+        └── README.md
+LICENSE
+README.md
+```
 
 ---
 
-## 🚀 Featured Project: Google Platform Dashboard
+## 📊 Project: Google Platform Analytics Dashboard
 
-![Overview](Dashboard-File/Google%20Platform/overview.png)
-![Dynamics](Dashboard-File/Google%20Platform/dynamics.png)
+This project simulates usage data across various Google platforms to analyze user behavior, satisfaction, and growth. It consists of:
 
-### 📌 Description
-An interactive Power BI dashboard that simulates analytics across Google services like Search, Ads, Maps, Cloud, and Android. It includes KPIs such as:
+- `Overview.png` – Overall platform performance snapshot
+- `Dynamics.png` – Detailed usage dynamics and trends
+- `Google_Analytics_PBI.pbix` – Power BI file used for visualization
 
-- Total users, paid users, satisfaction scores
-- Engagement and growth trends
-- Revenue breakdowns
-
-### 📂 Files included
-- `Google_Analytics_Platform_Dashboard.pbix` – Power BI report file
-- `FactUsage.csv`, `DimPlatform.csv`, `DimRegion.csv` – Sample dataset in star schema format
-- `overview.png`, `dynamics.png` – Dashboard visual exports
+All visuals and content have been generated using mock data.
 
 ---
 
-## 📄 License
-This project is open-source and available under the [MIT License](LICENSE). You can use, modify, and share freely with attribution.
+## 🚀 Skills Practiced
+- Data Modeling with Star Schema
+- Power BI Dashboard Design
+- Data Storytelling & Report Presentation
 
-Copyright (c) 2025 **Thanarat Chuehpasuk**
+---
+
+## 📌 License
+Distributed under the MIT License. See `LICENSE` file for more details.
 
 ---
 
-## ⭐ Support & Credits
-If you find this repository helpful, please consider giving it a ⭐ or sharing it with fellow analysts!
+## 🙋 About This Repository
+This GitHub repository is structured for clean navigation and scalability. All projects are organized under the `Applications/` folder to separate them by type.
+
+If you're interested in exploring more dashboards, browse within the `Applications` directory.
 
 ---
+
+## 🙅 Usage Limitations
+Please do not use this project or its materials in any commercial or unauthorized manner. The goal is purely academic.
+
+---
+
+## 🧑‍💻 Author
+Thanarat Chuehpasuk
+
+---
+
+## 📬 Contact
+For inquiries or permission for reuse, feel free to reach out via GitHub or email.
