@@ -33,13 +33,6 @@ An interactive Power BI dashboard that simulates analytics across Google service
 
 ---
 
-## 🤝 Contributing
-Want to contribute your own dataset or dashboard?
-
-Please see the [CONTRIBUTING.md](CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) files before submitting.
-
----
-
 ## 📄 License
 This project is open-source and available under the [MIT License](LICENSE). You can use, modify, and share freely with attribution.
 
