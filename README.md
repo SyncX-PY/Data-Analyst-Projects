@@ -17,6 +17,7 @@ A curated collection of **Power BI** projects designed for showcasing data analy
 ## 🚀 Featured Project: Google Platform Dashboard
 
 ![Overview](Dashboard-File/Google%20Platform/overview.png)
+![Dynamics](Dashboard-File/Google%20Platform/dynamics.png)
 
 ### 📌 Description
 An interactive Power BI dashboard that simulates analytics across Google services like Search, Ads, Maps, Cloud, and Android. It includes KPIs such as:
