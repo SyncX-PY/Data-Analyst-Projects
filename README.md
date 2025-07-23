@@ -16,3 +16,5 @@ A collection of data visualization dashboards.
  - 📊[Google Platform Dashboard](./Dashboard-File/Google%20Platform): Overview and Dynamics dashboards simulating key Google services.
 
 ---
+
+If you found this repository useful for your learning journey, consider ⭐ starring it!
