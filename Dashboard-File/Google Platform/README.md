@@ -1,4 +1,5 @@
 <img src="overview.png" width="100%" alt="Dashboard Overview" />
+<img src="dynamics.png" width="100%" alt="Dashboard Dynamics" />
 
 # 📊 Google Analytics Platform Dashboard  
 Power BI Dashboard | Mock Data | Google Platforms Visualization
@@ -39,6 +40,3 @@ This project showcases a **Power BI dashboard** simulating user behavior, revenu
 - **Data Viz**: KPI cards, bar charts, line graphs, slicers
 
 ---
-
-## 📌 Folder Structure
-
